@@ -25,3 +25,9 @@ body{
     border: 10px dotted violet;
     
 }
+.item{
+    background-color: aqua;
+}
+img{
+    width: 150px;
+}
